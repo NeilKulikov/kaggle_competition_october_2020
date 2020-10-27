@@ -1,0 +1,12 @@
+*.csv
+data/*
+.ipynb_*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+*.ipynb_*
+*.ipynb_checkpoints
+*.ipynb_checkpoints/*
+.vscode
+*.vscode
+*/.vscode
+
